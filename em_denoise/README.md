@@ -1,6 +1,6 @@
 # EM-Denoise Science Application
 
-This science application is created by, Patrick Austin (RAL, STFC), Keith Butler (SciML, STFC)*, Jeyan Thiyagalingam*, and Tony Hey.
+This science application is created by, Patrick Austin (RAL, STFC), Keith Butler (SciML, STFC)*, Jeyan Thiyagalingam (SciML, RAL, STFC)*, and Tony Hey.
 *(Corresponding). 
 
 ## License:
